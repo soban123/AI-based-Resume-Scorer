@@ -1,0 +1,76 @@
+NAME:       Soban Bin Shams  
+EMAIL:      soban@example.com  
+PHONE:      +92-XXX-XXXXXXX  
+LOCATION:   Lahore, Pakistan (Remote-friendly)  
+GITHUB:     https://github.com/sobanbinshams  
+LINKEDIN:   https://linkedin.com/in/sobanbinshams  
+PORTFOLIO:  https://sobanai.dev
+ 
+=============================
+🎯 OBJECTIVE
+=============================
+AI Developer with hands-on experience in OpenAI, LangChain, and machine learning, seeking a role to build intelligent, real-world applications using LLMs, prompt engineering, and custom model pipelines.
+
+=============================
+💼 EXPERIENCE
+=============================
+
+AI Developer – Freelance / Personal Projects  
+Jan 2024 – Present  
+- Built an AI-powered File Q&A system using Node.js, OpenAI API, and LangChain to answer questions from PDF/CSV files.
+- Developed a Job Match Scorer CLI that compares resumes to job descriptions using GPT-4.
+- Implemented document parsing using pdf-parse, csv-parser, and integrated vector search.
+- Integrated motion detection POC with TensorFlow.js and webcam data.
+- Applied prompt engineering techniques to control LLM behavior for summarization, extraction, and scoring tasks.
+
+Software Engineer – XYZ Technologies  
+Aug 2022 – Dec 2023  
+- Created internal tools with GPT APIs to automate report generation and email summarization.
+- Optimized ETL pipelines for ML model training (Pandas, scikit-learn).
+- Collaborated with AI team on sentiment classification and topic modeling features.
+
+=============================
+🧠 SKILLS
+=============================
+Languages:    JavaScript, Python  
+AI Tools:     OpenAI API, LangChain, Hugging Face, TensorFlow, scikit-learn  
+Web:          Node.js, Express, FastAPI  
+Data:         Pandas, csv-parser, pdf-parse  
+LLM Features: Prompt engineering, Embeddings, Vector databases (Chroma, Pinecone)  
+Other:        Git, CLI apps, REST APIs, Docker (basic)
+
+=============================
+📚 EDUCATION
+=============================
+BS Computer Science – ABC University, 2022  
+
+Courses & Certifications:  
+- Machine Learning (Coursera, Andrew Ng)  
+- Prompt Engineering for Developers (DeepLearning.AI)  
+- AI for Everyone (Coursera)  
+- Advanced ML (in progress)  
+
+=============================
+📂 PROJECTS
+=============================
+
+Job Match Scorer  
+CLI app to evaluate how well a resume fits a job description using GPT.
+
+AI-Powered File Q&A  
+Loads PDFs and CSVs, parses content, and answers questions via OpenAI.
+
+Motion Detection with TensorFlow.js  
+Browser-based movement detector using webcam and TensorFlow models.
+
+=============================
+🏆 ACHIEVEMENTS
+=============================
+- Integrated OpenAI API with Node.js CLI tools from scratch  
+- Built and deployed 3+ working AI prototypes  
+- Actively exploring new AI libraries like Ollama, Whisper, and Agents
+
+=============================
+📫 REFERENCES
+=============================
+Available upon request

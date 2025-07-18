@@ -1,0 +1,63 @@
+Position: AI Developer
+Location: [Remote / On-site – City, Country]
+Job Type: Full-time
+Experience: 2–5+ years
+Salary: [Insert range]
+
+🧩 About the Role
+We’re seeking a skilled and curious AI Developer to join our team to design, develop, and deploy AI-powered applications using cutting-edge tools like OpenAI, LLMs, machine learning models, and NLP frameworks. You'll collaborate closely with product, engineering, and research teams to bring AI-driven solutions into production.
+
+🔧 Key Responsibilities
+Design and build AI features using LLMs (GPT, Claude, Mistral, etc.)
+
+Fine-tune and deploy models for classification, prediction, and generation tasks
+
+Integrate OpenAI API or open-source models (e.g., Hugging Face, LangChain, Ollama)
+
+Work with unstructured data: PDFs, CSVs, audio, chat logs, images
+
+Build pipelines for training and evaluating models
+
+Ensure scalable deployment using containerized services (Docker, FastAPI, etc.)
+
+Collaborate on prompt engineering, data labeling, and feedback loops
+
+Stay current with AI research and apply findings to real-world problems
+
+💡 Must-Have Skills
+Proficiency in Python or Node.js
+
+Hands-on experience with OpenAI, LangChain, Hugging Face, or TensorFlow
+
+Experience with LLMs, embeddings, vector databases (e.g. Pinecone, ChromaDB)
+
+Ability to process and analyze large datasets (JSON, PDF, CSV, etc.)
+
+Strong understanding of prompt engineering and model behavior
+
+Experience working with REST APIs and cloud platforms (e.g. AWS, GCP)
+
+⭐ Nice-to-Have Skills
+Familiarity with agents, RAG (retrieval-augmented generation), and semantic search
+
+Knowledge of computer vision, audio processing, or reinforcement learning
+
+Experience contributing to open-source AI projects
+
+Understanding of data security, privacy, and ethical AI use
+
+🎓 Qualifications
+Bachelor's or Master’s in Computer Science, Data Science, or related field
+
+2+ years in applied AI, machine learning, or software development
+
+Strong portfolio or GitHub with AI/ML projects or prototypes
+
+🚀 Why Join Us?
+Work with cutting-edge AI technologies and real-world use cases
+
+Flexible hours and remote-friendly
+
+Direct impact on product and user experience
+
+Learn and grow alongside AI experts and engineers
