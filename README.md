@@ -1,1 +1,1 @@
-# Image-Recognition
+# Resume scorer
